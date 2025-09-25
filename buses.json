@@ -1,0 +1,16 @@
+{
+  "buses": [
+    {
+      "id": "bus1",
+      "name": "Sangli → Jaysingpur",
+      "dispatch_time": "08:00 AM",
+      "driver_contact": "+91-9000000001"
+    },
+    {
+      "id": "bus2",
+      "name": "Pune → Kolhapur",
+      "dispatch_time": "08:30 AM",
+      "driver_contact": "+91-9000000002"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "id": "bus1",
+      "name": "Sangli to Jaysingpur",
+      "stations": ["Sangli", "Miraj", "Jaysingpur"],
+      "dispatch_time": "08:00 AM",
+      "bus_number": "0707",
+      "driver_contact": "+91-9876543210",
+      "current_location": {
+        "lat": 16.8524,
+        "lng": 74.5815
+      }
+    },
+    {
+      "id": "bus2",
+      "name": "Pune to Kolhapur",
+      "stations": ["Pune", "Satara", "Karad", "Kolhapur"],
+      "dispatch_time": "09:30 AM",
+      "bus_number": "0808",
+      "driver_contact": "+91-9123456780",
+      "current_location": {
+        "lat": 18.5204,
+        "lng": 73.8567
+      }
+    }
+  ]
+}
